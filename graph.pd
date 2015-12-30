@@ -1,0 +1,4 @@
+#N canvas 167 134 450 300 10;
+#N canvas 0 22 450 278 (subpatch) 0;
+#X coords 0 1 100 -1 200 140 1;
+#X restore 100 20 graph;

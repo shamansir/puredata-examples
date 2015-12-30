@@ -1,0 +1,6 @@
+#N canvas 0 22 450 300 10;
+#X floatatom 73 45 5 0 0 0 - - -;
+#X msg 74 91 \$1 is a beautiful number;
+#X obj 79 141 print;
+#X connect 0 0 1 0;
+#X connect 1 0 2 0;

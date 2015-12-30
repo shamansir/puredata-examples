@@ -1,0 +1,7 @@
+#N canvas 579 94 450 300 10;
+#X symbolatom 78 94 10 0 0 0 - - -;
+#X text 194 93 <-- This is a symbol box.;
+#X text 222 120 Above me there is a comment.;
+#X text 220 147 I'm also a comment.;
+#X obj 78 148 print;
+#X connect 0 0 4 0;

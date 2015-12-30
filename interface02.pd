@@ -1,0 +1,14 @@
+#N canvas 587 430 450 300 10;
+#X msg 17 20 2;
+#X msg 56 20 4;
+#X floatatom 25 54 5 0 0 0 - - -;
+#X obj 76 113 print;
+#X msg 77 56 cat;
+#X msg 136 56 3.1416;
+#X msg 194 56 some monsters;
+#X connect 0 0 2 0;
+#X connect 1 0 2 0;
+#X connect 2 0 3 0;
+#X connect 4 0 3 0;
+#X connect 5 0 3 0;
+#X connect 6 0 3 0;
